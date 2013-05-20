@@ -22,4 +22,4 @@ I want the first part the UI/UX, visual design, and frontend development book to
 
 With all of this said, the original thought was to release all three books of the series in one month. But honestly, I wouldn't have the time to actually write good quality books with examples that made sense and so forth. Plus I would feel rushed like all the time. So I've decided to release one book Tech book a month and really focus on providing great content to the readers. But I still do want to release 3 books a month. I think one should be about business while the other deals with life. The life book could be about all sorts things that effect a Man, Woman or whatever. I want the book about life to be super flexible and cool. 
 
-The business book will focus on marketing, managing, and just your ups and downs of making things happen.
+The business book will focus on marketing, managing, and just your ups and downs of making things happen. 
