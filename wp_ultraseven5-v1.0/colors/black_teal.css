@@ -1,0 +1,132 @@
+/* GLOBAL: #Black Brown
+================================================== */
+
+a, a:visited,
+#logo h1 a:hover {
+	color: #4EBAC0;
+}
+
+a:hover, a:focus,
+.dk_toggle:hover {
+	color: #358286;
+}
+
+#nav {
+	box-shadow: 3px 3px 0 #262626;
+}
+
+#navigation > li.current_page_item > a,
+#navigation > li.current_page_item > a:visited,
+#navigation > li.current-menu-item > a,
+#navigation > li.current-menu-item > a:visited,
+#navigation a:hover,
+#navigation .sfHover > a,
+#navigation .sfHover > a:visited,
+#navigation > li.current_page_item > a:hover,
+#navigation > li.current-menu-item > a:hover {
+	background: #262626;
+	color: #FFF;
+} /* WordPress Current Page Styles */
+
+
+#topnav a:hover {
+	color: #4EBAC0;
+}
+
+.top-nav a:after,
+#topcart > span:after {
+	color: #686868;
+}
+
+.slide-content {
+	background-color: #000;
+	border: 5px solid #3E3E3E;
+	box-shadow: 0 0 1px 0 rgba(255, 255, 255, 0.7) inset;
+}
+
+.slide-title {
+	color: #4EBAC0;
+}
+
+.flex-direction-nav .flex-next,
+.flex-direction-nav .flex-next,
+.flex-direction-nav .flex-prev,
+.flex-direction-nav .flex-prev:hover,
+.footer-credits,
+span.onsale,
+#paging a,
+#paging a:visited,
+input[type=submit],
+.btn,
+.btn:active,
+.button,
+.button:visited,
+.quantity input,
+.quantity input:focus,
+form.cart table.variations label,
+form.cart table.group_table label,
+form.cart table.group_table span.amount,
+.ui-slider .ui-slider-handle,
+.promo,
+.searchsubmit,
+.dk_container,
+#dk_container_orderby.dk_open .dk_toggle,
+.dk_open .dk_toggle,
+.read-more, .read-more:visited,
+#searchsubmit {
+	background-color: #000;
+}
+
+.promo {
+	border-color: #3E3E3E;
+}
+
+.view-btn,
+.view-btn:visited {
+	background: #3E3E3E;
+}
+
+.flex-direction-nav .flex-prev:hover,
+.flex-direction-nav .flex-next:hover {
+	background-color: #3E3E3E;
+}
+
+.section-title:before,
+.footer-separator,
+.col-1, .col-2 {
+	border-color: #000;
+}
+
+.read-more:hover,
+#paging a:hover,
+input[type=submit]:hover,
+.btn:hover,
+.button:hover,
+.quantity .plus:hover,
+.quantity .minus:hover,
+.dk_options a:hover,
+.dk_option_current a,
+#searchsubmit:hover  {
+	background-color: #4EBAC0;
+}
+
+.woocommerce-main-image img:hover {
+	box-shadow: 3px 3px 0 #000;
+}
+
+.woocommerce-message, .info, .woocommerce-error, .woocommerce-info {
+	box-shadow: 3px 3px 0 #262626;
+}
+
+.thumbnails a:hover {
+	box-shadow: 2px 2px 0 #000;
+}
+
+.sidebar a:hover,
+#footer a:hover {
+	color: #222;
+}
+
+ul.cart_list li img:hover, ul.product_list_widget li img:hover  {
+	border-color: #222;
+}
